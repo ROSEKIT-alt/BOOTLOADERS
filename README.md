@@ -1,2 +1,1 @@
-# BOOTLOADERS
-Written in Assembly (NASM)
+16 bit
